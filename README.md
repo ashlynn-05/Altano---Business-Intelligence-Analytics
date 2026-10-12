@@ -71,9 +71,6 @@ The report has six pages: three enterprise-level analysis pages and three dashbo
 | **A2. Customer Segmentation & Profitability** | Customer value matrix, income vs. credit-score correlation, generational DTI risk, retirement horizon, drill-through to individual customers |
 | **A3. Revenue Growth & Forecasting** | Daily growth by income segment, weekly category acceleration, transaction trend with forecast projection |
 
-<details>
-<summary><b>View Section A screenshots</b></summary>
-
 #### A1. Market Share & Product Penetration
 ![Market Share and Product Penetration dashboard](docs/images/01-market-share-product-penetration.png)
 
@@ -83,8 +80,6 @@ The report has six pages: three enterprise-level analysis pages and three dashbo
 #### A3. Revenue Growth & Forecasting
 ![Revenue Growth and Forecasting dashboard](docs/images/03-growth-forecasting.png)
 
-</details>
-
 ### Section B: Audience dashboards
 
 | Dashboard | Audience | What it enables |
@@ -92,9 +87,6 @@ The report has six pages: three enterprise-level analysis pages and three dashbo
 | **B1. Executive: Risk & Portfolio Overview** | C-suite, board directors | KPI cards for chip usage, chip issuance and average DTI (1.38); U.S. revenue concentration map; credit limits by DTI and score band |
 | **B2. Operations Performance & Monitoring** | Operations managers | Transaction volume and error rates over time, errors by state, brand and merchant category, day-of-week demand patterns |
 | **B3. Business Users** | Customer service officers, relationship managers | Customer table with conditional risk formatting, spend treemap, peer-group benchmark, and an **Outreach Priority List** |
-
-<details>
-<summary><b>View Section B screenshots</b></summary>
 
 #### B1. Executive Dashboard
 ![Executive dashboard](docs/images/04-executive-dashboard.png)
@@ -104,8 +96,6 @@ The report has six pages: three enterprise-level analysis pages and three dashbo
 
 #### B3. Business Users
 ![Business Users dashboard](docs/images/06-business-users-dashboard.png)
-
-</details>
 
 The Outreach Priority List turns abstract risk segments into a call list. For example, it flags 85 near-retirement customers with high DTI for debt-consolidation or advisory outreach instead of more credit.
 
